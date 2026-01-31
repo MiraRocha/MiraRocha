@@ -21,7 +21,6 @@ Olá Eu sou a Mira Rocha!
 <div> 
   <a href="mailto:palmirarocha93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="mailto:palmira_rocha93@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-
   <a href="https://www.linkedin.com/in/mira-rocha93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

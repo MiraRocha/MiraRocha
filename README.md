@@ -1,6 +1,16 @@
 Olá Eu sou a Mira Rocha!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraRocha&layout=compact&langs_count=10&theme=dark&cache_seconds=86400"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MiraRocha&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MiraRocha&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MiraRocha&show_icons=true" />
+</picture>
 
 
 <div style="display: inline_block"><br>

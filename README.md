@@ -1,4 +1,6 @@
 Olá Eu sou a Mira Rocha!
+
+
 Sou uma programadora em início de carreira, com forte interesse em **desenvolvimento mobile**, **lógica de negócio** e **organização de código**.  
 Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa experiência de utilizador.
 

@@ -9,6 +9,7 @@ Olá Eu sou a Mira Rocha!
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Rafa-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Flet" height="30" width="40"src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">
  
 </div>
   

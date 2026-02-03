@@ -1,6 +1,26 @@
 Olá Eu sou a Mira Rocha!
+Sou uma programadora em início de carreira, com forte interesse em **desenvolvimento mobile**, **lógica de negócio** e **organização de código**.  
+Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa experiência de utilizador.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraRocha&layout=compact&langs_count=8&theme=dracula"/>
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
 

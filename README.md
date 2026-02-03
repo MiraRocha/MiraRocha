@@ -1,4 +1,6 @@
-Olá Eu sou a Mira Rocha!
+# 👩🏼‍💻 Palmira Rocha
+
+**`Desenvolvedora Mobile em formação`**
 
 
 Sou uma programadora em início de carreira, com forte interesse em **desenvolvimento mobile**, **lógica de negócio** e **organização de código**.  

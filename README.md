@@ -18,6 +18,7 @@ Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa expe
 </p>
 
 <br clear="both"/>
+<br/>
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

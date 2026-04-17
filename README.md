@@ -9,10 +9,6 @@ Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa expe
 </p>
 
 
-<p align="start"> 
-  <img src="https://komarev.com/ghpvc/?username=MiraRocha&label=Profile%20views&color=0e75b6&style=flat" alt="MiraRocha" /> 
-</p>
-
 ##
 
 <h3 align="start">Meus Contactos</h3>

@@ -4,45 +4,74 @@
 Sou uma programadora em início de carreira, com forte interesse em **desenvolvimento mobile**, **lógica de negócio** e **organização de código**.  
 Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa experiência de utilizador.
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left"  
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=MiraRocha&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img 
-    align="left" 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiraRocha&layout=compact&theme=tokyonight"/>
+<p align="start">
+  <img src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696213cf886906051a35ec4/1721114951395/Cozy+Home+Office"/>
 </p>
-
-<br clear="both"/>
-<br/>
-
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png">
-  <img align="center" alt="VS Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Flet" height="40" width="50" src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">
-</div>
 
 ##
 
-<div> 
-  <a href="mailto:palmirarocha93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="mailto:palmira_rocha93@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mira-rocha93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+<p align="start"> 
+  <img src="https://komarev.com/ghpvc/?username=MiraRocha&label=Profile%20views&color=0e75b6&style=flat" alt="MiraRocha" /> 
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+##
+
+<h3 align="start">Meus Contactos</h3>
+<p align="start">
+  <a href="mailto:palmirarocha93@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="mailto:palmira_rocha93@hotmail.com">
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" height="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mira-rocha93/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+##
+
+## 💻 Tech Stack
+
+<h3>📱 Mobile & Frontend</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,html,css&theme=light"/>
+  </a>
+</p>
+<p align="start">
+  <img src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg" height="40"/>
+</p>
+
+<h3>⚙️ Backend & Databases</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,firebase,mysql,mongodb&theme=light"/>
+  </a>
+</p>
+
+<h3>☁️ DevOps & CI/CD</h3>
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github,jenkins&theme=light"/></a>
+</p>
+
+<h3>🛠️ Tools</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode&theme=light"/>
+  </a>
+</p>
+
+## 🐙 • Sobre o meu GitHub 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiraRocha&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MiraRocha&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MiraRocha&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MiraRocha&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MiraRocha&theme=tokyonight)
+
+##
+
+### 🎯 Objetivo
+
+Estou à procura de uma oportunidade como **Junior Mobile Developer** onde possa crescer tecnicamente e contribuir para projetos reais.

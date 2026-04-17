@@ -8,7 +8,6 @@ Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa expe
   <img src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696213cf886906051a35ec4/1721114951395/Cozy+Home+Office"/>
 </p>
 
-##
 
 <p align="start"> 
   <img src="https://komarev.com/ghpvc/?username=MiraRocha&label=Profile%20views&color=0e75b6&style=flat" alt="MiraRocha" /> 

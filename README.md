@@ -31,7 +31,7 @@ Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa expe
 <h3>📱 Mobile & Frontend</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,js,html,css&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,js,html,css&theme=light"/>
   </a>
 </p>
 <p align="start">
@@ -53,7 +53,7 @@ Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa expe
 <h3>🛠️ Tools</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode&theme=light"/>
   </a>
 </p>
 

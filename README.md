@@ -1,8 +1,8 @@
 # 👩🏼‍💻 Palmira Rocha
 **`Júnior Front-End Developer`**
 
-Sou uma programadora em início de carreira, com forte interesse em **desenvolvimento mobile**, **lógica de negócio** e **organização de código**.  
-Gosto de criar aplicações **bem estruturadas**, escaláveis e com uma boa experiência de utilizador.
+Junior Front-End & Mobile Developer com interesse no desenvolvimento de aplicações estruturadas, escaláveis e com boa experiência de utilização. Tenho especial interesse em desenvolvimento mobile, lógica de negócio e organização de código. Atualmente encontro-me a aprofundar conhecimentos em React e a continuar a aprender novas tecnologias para evoluir enquanto programadora.
+
 
 <p align="start">
   <img src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696213cf886906051a35ec4/1721114951395/Cozy+Home+Office"/>

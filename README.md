@@ -35,6 +35,7 @@ Junior **Front-End & Mobile Developer** com interesse no desenvolvimento de apli
   </a>
 </p>
 <p align="start">
+   <img src="https://skillicons.dev/icons?i=react&theme=light"/>
   <img src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg" height="40"/>
 </p>
 

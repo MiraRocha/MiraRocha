@@ -56,6 +56,7 @@ Junior **Front-End & Mobile Developer** com interesse no desenvolvimento de apli
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode&theme=light"/>
   </a>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="48"/>
 </p>
 
 ## 🐙 • Sobre o meu GitHub 

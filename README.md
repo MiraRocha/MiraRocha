@@ -19,7 +19,7 @@ Junior **Front-End & Mobile Developer** com interesse no desenvolvimento de apli
   <a href="mailto:palmira_rocha93@hotmail.com">
     <img src="https://img.icons8.com/color/48/microsoft-outlook-2019--v1.png" height="48"/>
   </a>
-  <a href="https://www.linkedin.com/in/mira-rocha93/" target="_blank">
+  <a href="https://www.linkedin.com/in/mira-rocha93devmobile/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
 </p>

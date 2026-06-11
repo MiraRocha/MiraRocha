@@ -31,7 +31,7 @@ Junior **Front-End & Mobile Developer** com interesse no desenvolvimento de apli
 <h3>📱 Mobile & Frontend</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,js,html,css&theme=light"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,js,html,css,tailwind&theme=light"/>
   </a>
 </p>
 <p align="start">

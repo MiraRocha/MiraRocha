@@ -69,6 +69,3 @@ Junior Full-Stack Developer, com especial foco em mobile, com interesse no desen
 
 ##
 
-### 🎯 Objetivo
-
-Estou à procura de uma oportunidade como **Junior Mobile Developer** onde possa crescer tecnicamente e contribuir para projetos reais.

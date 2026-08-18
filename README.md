@@ -1,7 +1,7 @@
 # 👩🏼‍💻 Palmira Rocha
-**`Júnior Full-Stack Developer`**
+**`Júnior Full-Stack Web Developer`**
 
-Junior Full-Stack Developer, com especial foco em mobile, com interesse no desenvolvimento de aplicações estruturadas, escaláveis e com boa experiência de utilização. Tenho especial interesse em desenvolvimento mobile, lógica de negócio e organização de código. Atualmente encontro-me a aprofundar conhecimentos em React/React Native e a continuar a aprender novas tecnologias para evoluir enquanto programadora full-stack.
+Junior Full-Stack Web Developer, com especial foco em mobile, com interesse no desenvolvimento de aplicações estruturadas, escaláveis e com boa experiência de utilização. Tenho especial interesse em desenvolvimento mobile, lógica de negócio e organização de código. Atualmente encontro-me a aprofundar conhecimentos em React/React Native e a continuar a aprender novas tecnologias para evoluir enquanto programadora full-stack.
 
 
 <p align="start">
